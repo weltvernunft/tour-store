@@ -695,7 +695,7 @@ body {
 
 .header {
   height: 95vh;
-  background-image: linear-gradient(45deg, rgba(111, 152, 213, 0.8), rgba(63, 40, 180, 0.8)), url(https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&q=80&w=2050&ixlib=rb-4.0.3&ixid=3D%3D);
+  background-image: linear-gradient(45deg, rgba(111, 152, 213, 0.5), rgba(63, 40, 180, 0.5)), url("https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   background-size: cover;
   background-position: bottom;
   position: relative;
@@ -741,10 +741,10 @@ body {
     width: 10rem;
     height: 10rem;
     background-image: linear-gradient(90deg, #6f98d5, #3f28b4);
-    -webkit-mask-image: url("/natorus/img/logo-green-2x.png");
+    -webkit-mask-image: url("/tour-store/natorus/img/logo-green-2x.png");
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
-    mask-image: url("/natorus/img/logo-green-2x.png");
+    mask-image: url("/tour-store/natorus/img/logo-green-2x.png");
     mask-size: contain;
     mask-repeat: no-repeat; }
   .footer__navigation {
@@ -961,7 +961,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: linear-gradient(45deg, rgba(111, 152, 213, 0.6), rgba(63, 40, 180, 0.6)), url(https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=2074&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-image: linear-gradient(45deg, rgba(111, 152, 213, 0.6), rgba(63, 40, 180, 0.6)), url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=2074&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -13rem; }
@@ -993,13 +993,13 @@ body {
   background-image: linear-gradient(to right bottom, #6f98d5, #3f28b4); }
 
 .book {
-  background-image: linear-gradient(107deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url("/natorus/img/nat-10.jpg");
+  background-image: linear-gradient(107deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url("https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1874&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   background-size: cover;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2); }
   @media only screen and (max-width: 75em) {
     .book {
-      background-image: linear-gradient(107deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 65%, transparent 65%), url("/natorus/img/nat-10.jpg"); } }
+      background-image: linear-gradient(107deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 65%, transparent 65%), url("https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1874&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"); } }
   @media only screen and (max-width: 56.25em) {
     .book {
       background-image: linear-gradient(to right, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 100%), url("/natorus/img/nat-10.jpg"); } }

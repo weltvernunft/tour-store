@@ -16,7 +16,7 @@
       rgba($color-prim-light, 0.6),
       rgba($color-prim-dark, 0.6)
     ),
-    url(https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=2074&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    url('https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=2074&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;
   transform: skewY(-7deg);
 
@@ -68,7 +68,7 @@
       rgba($color-white, 0.9) 50%,
       transparent 50%
     ),
-    url('/natorus/img/nat-10.jpg');
+    url('https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1874&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba($color-black, $alpha: 0.2);
@@ -80,7 +80,7 @@
         rgba($color-white, 0.9) 65%,
         transparent 65%
       ),
-      url('/natorus/img/nat-10.jpg');
+      url('https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1874&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   }
 
   @include respond(tab-port) {
